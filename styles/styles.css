@@ -2,6 +2,7 @@ body{
     font-family: Arial;
     background-image: url("./image/Nature.jpg");
     background-size: cover;
+    color: rgb(199, 190, 190);
 
     
 }
@@ -16,11 +17,14 @@ body{
 
 }
 #header{
-    margin:auto;
+    margin:15px auto;
     width: 55%;
     border: 1px solid;
     font-size: 2em;
     border: collapse;
+    -webkit-box-shadow: 25px 33px 58px 0px rgba(209,186,186,1);
+-moz-box-shadow: 25px 33px 58px 0px rgba(209,186,186,1);
+box-shadow: 25px 33px 58px 0px rgba(209,186,186,1);
 
 }
 #footer{
