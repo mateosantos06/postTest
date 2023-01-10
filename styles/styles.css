@@ -1,0 +1,32 @@
+body{
+    font-family: Arial;
+    background-image: url("./image/Nature.jpg");
+    background-size: cover;
+
+    
+}
+
+#container{
+    width: 50%;
+    margin:auto;
+    border: solid 1px;
+    padding: 2em;
+    text-align: center;
+  
+
+}
+#header{
+    margin:auto;
+    width: 55%;
+    border: 1px solid;
+    font-size: 2em;
+    border: collapse;
+
+}
+#footer{
+    width: 55%;
+    border: 1px solid;
+    font-size: 1em;
+    margin: auto;
+    border: collapse;
+}
