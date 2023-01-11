@@ -15,7 +15,7 @@ body{
     text-align: center;
   
 
-}
+}   
 #header{
     margin: auto;
     width: 55%;
@@ -23,9 +23,7 @@ body{
     font-weight: bold;
     font-size: 2em;
     border: collapse;
-    -webkit-box-shadow: 25px 33px 58px 0px rgba(209,186,186,1);
--moz-box-shadow: 25px 33px 58px 0px rgba(209,186,186,1);
-box-shadow: 25px 33px 58px 0px rgba(209,186,186,1);
+ 
 
 }
 #footer{
